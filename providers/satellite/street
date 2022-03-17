@@ -1,0 +1,8 @@
+{
+  "Enabled" : true,
+  "UrlTemplate" : "http://mt2.google.com/vt/lyrs=y&x=%x&y=%y&z=%z&s=Galileo.jpg",
+  "ImageFormat" : "jpg",
+  "QImageFormat" : "Indexed8",
+  "MapCopyRight" : "Google",
+  "DataCopyRight" : "Google"
+}

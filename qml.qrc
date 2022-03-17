@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>providers/map/cycle</file>
+        <file>providers/map/cycle-hires</file>
+        <file>providers/map/hiking</file>
+        <file>providers/map/hiking-hires</file>
+        <file>providers/map/LICENSE</file>
+        <file>providers/map/night-transit</file>
+        <file>providers/map/night-transit-hires</file>
+        <file>providers/map/README.md</file>
+        <file>providers/map/satellite</file>
+        <file>providers/map/set_api_key.sh</file>
+        <file>providers/map/street</file>
+        <file>providers/map/street-hires</file>
+        <file>providers/map/terrain</file>
+        <file>providers/map/terrain-hires</file>
+        <file>providers/map/transit</file>
+        <file>providers/map/transit-hires</file>
+        <file>providers/satellite/cycle</file>
+        <file>providers/satellite/cycle-hires</file>
+        <file>providers/satellite/hiking</file>
+        <file>providers/satellite/hiking-hires</file>
+        <file>providers/satellite/LICENSE</file>
+        <file>providers/satellite/night-transit</file>
+        <file>providers/satellite/night-transit-hires</file>
+        <file>providers/satellite/README.md</file>
+        <file>providers/satellite/satellite</file>
+        <file>providers/satellite/set_api_key.sh</file>
+        <file>providers/satellite/street</file>
+        <file>providers/satellite/street-hires</file>
+        <file>providers/satellite/terrain</file>
+        <file>providers/satellite/terrain-hires</file>
+        <file>providers/satellite/transit</file>
+        <file>providers/satellite/transit-hires</file>
+    </qresource>
+</RCC>

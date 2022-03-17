@@ -1,0 +1,10 @@
+{
+    "UrlTemplate" : "http://mt0.google.com/vt/lyrs=y&hl=en&x=%x&y=%y&z=%z&s=Ga",
+    "ImageFormat" : "png",
+    "QImageFormat" : "Indexed8",
+    "ID" : "thf-hike",
+    "MaximumZoomLevel" : 20,
+    "MapCopyRight" : "<a href='http://www.thunderforest.com/'>Thunderforest</a>",
+    "DataCopyRight" : "<a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors",
+    "Timestamp" : "2017-02-13"
+}
