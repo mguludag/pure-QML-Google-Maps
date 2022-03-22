@@ -2,5 +2,5 @@
 Pure QML GoogleMaps using custom providersrepository of osm plugin. Currently work in progress
 
 ### Preview
-<img src="https://i.imgur.com/0kfQzkU.gif"/>
+![preview](./2022-03-22-23-17-47.gif)
 
